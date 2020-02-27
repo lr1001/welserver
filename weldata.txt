@@ -1,4 +1,4 @@
-<devices>
+<?xml version="1.0" encoding="UTF-8"?><devices>
 <device>
 <name>date</name>
 <value>02/24/2020</value>
