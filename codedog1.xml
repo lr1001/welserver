@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dogs>
+	<dog>
+		<name>date</name>
+		<breed>2/3/65</breed>
+	</dog>
+	<dog>
+		<name>time</name>
+		<breed>1:40p</breed>
+	</dog>
+	<dog>
+		<name>zn1</name>
+		<breed>1.000</breed>
+	</dog>
+	<dog>
+		<name>Tmp1</name>
+		<breed>156.00</breed>
+	</dog>
+	<dog>
+		<name>Tmp1</name>
+		<breed>100.000</breed>
+	</dog>
+</dogs>
