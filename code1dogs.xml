@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices>
+	<device>
+		<name>date</name>
+		<value>2/27/20</value>
+	</value>
+</device>
+<device>
+	<name>time</name>
+	<value>2:00p</value>
+</device>
+<device>
+	<name>Temp1</name>
+	<value>55.700</value>
+</device>
+<device>
+	<name>Temp2</name>
+	<value>135.000</value>
+</device>
+<device>
+	<name>Zn1</name>
+	<value>1.000000</value>
+</device>
+</devices>
