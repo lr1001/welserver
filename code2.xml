@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices>
+	<device>
+		<name>date</name>
+		<value>now</value>
+	</value>
+</device>
+<device>
+	<name>time</name>
+	<value>now</value>
+</device>
+<device>
+	<name>TempONe</name>
+	<value>number</value>
+</device>
+<device>
+	<name>TempTwo</name>
+	<value>two</value>
+</device>
+<device>
+	<name>ZnONe</name>
+	<value>three</value>
+</device>undefined</devices>
